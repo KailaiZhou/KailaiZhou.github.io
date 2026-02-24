@@ -2,13 +2,13 @@ github_users:
   - CalayZhou
 
 
-repo_description_lines_max: 2
+repo_description_lines_max: 1
 
 github_repos:  
   - CalayZhou/M-SpecGene
-  - CalayZhou/UNIP_RGBT_pretraining
   - CalayZhou/Gaseous-Object-Detection
   - CalayZhou/JDM-HDRNet
   - CalayZhou/A-Summary-of-Multispectral-Image-Datasets
   - CalayZhou/Multispectral-Pedestrian-Detection-Resource
   - CalayZhou/IOD-Video
+  - CalayZhou/MBNet
