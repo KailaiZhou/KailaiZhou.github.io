@@ -4,11 +4,11 @@ github_users:
 
 repo_description_lines_max: 2
 
-github_repos:  []
-  # - alshedivat/al-folio
-  # - jekyll/jekyll
-  # - twbs/bootstrap
-  # - jquery/jquery
-  # - FortAwesome/Font-Awesome
-  # - mathjax/MathJax
-  # - jpswalsh/academicons
+github_repos:  
+  - CalayZhou/M-SpecGene
+  - CalayZhou/UNIP_RGBT_pretraining
+  - CalayZhou/Gaseous-Object-Detection
+  - CalayZhou/JDM-HDRNet
+  - CalayZhou/A-Summary-of-Multispectral-Image-Datasets
+  - CalayZhou/Multispectral-Pedestrian-Detection-Resource
+  - CalayZhou/IOD-Video
