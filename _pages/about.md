@@ -29,7 +29,7 @@ latest_posts:
 ---
 
 
-Kailai Zhou received his Ph.D. from Nanjing University in 2025 under the supervision of Prof. Xun Cao. He is currently a Postdoctoral Research Fellow at Nanyang Technological University, working with Prof. Bihan Wen. His research lies at the intersection of computational imaging and computer vision, with a particular focus on spectral vision and its role in emerging areas such as AI for Science, embodied intelligence, and world models.
+Kailai Zhou received his Ph.D. from Nanjing University in 2025 under the supervision of Prof. Xun Cao. He is currently a Postdoctoral Research Fellow at Nanyang Technological University, working with Prof. Bihan Wen. His research lies at the intersection of computational imaging and computer vision, with a particular focus on spectral vision and its role in emerging areas such as AI for Science and world models.
 
 He aims to fundamentally advance how machines perceive and understand the physical world by pioneering new imaging mechanisms and harnessing higher information dimensions beyond traditional RGB imaging, with the long-term goal of developing high-dimensional intelligent visual systems that surpass human perceptual limits and exhibit stronger environmental understanding, reasoning, and generalization.
 
