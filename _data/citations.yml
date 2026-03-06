@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-03-02'
+  last_updated: '2026-03-06'
 papers:
   8FG0RjsAAAAJ:2osOgNQ5qMEC:
     citations: 2
@@ -30,11 +30,11 @@ papers:
     title: High-precision temperature measurement and calibration technology of infrared thermal imager
     year: '2021'
   8FG0RjsAAAAJ:qjMakFHDy7sC:
-    citations: 31
+    citations: 32
     title: 'Exploring video denoising in thermal infrared imaging: Physics-inspired noise generator, dataset, and model'
     year: '2024'
   8FG0RjsAAAAJ:u-x6o8ySG0sC:
-    citations: 385
+    citations: 387
     title: Improving multispectral pedestrian detection by addressing modality imbalance problems
     year: '2020'
   8FG0RjsAAAAJ:u5HHmVD_uO8C:
