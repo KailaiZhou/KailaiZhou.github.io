@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-03-23'
+  last_updated: '2026-03-27'
 papers:
   8FG0RjsAAAAJ:2osOgNQ5qMEC:
     citations: 2
@@ -10,7 +10,7 @@ papers:
     title: "\u7EA2\u5916\u70ED\u50CF\u4EEA\u9AD8\u7CBE\u5EA6\u6D4B\u6E29\u6807\u5B9A\u6280\u672F"
     year: '2021'
   8FG0RjsAAAAJ:IjCSPb-OGe4C:
-    citations: 14
+    citations: 15
     title: Gaseous Object Detection
     year: '2024'
   8FG0RjsAAAAJ:Tyk-4Ss8FVUC:
@@ -38,7 +38,7 @@ papers:
     title: 'Exploring video denoising in thermal infrared imaging: Physics-inspired noise generator, dataset, and model'
     year: '2024'
   8FG0RjsAAAAJ:u-x6o8ySG0sC:
-    citations: 393
+    citations: 395
     title: Improving multispectral pedestrian detection by addressing modality imbalance problems
     year: '2020'
   8FG0RjsAAAAJ:u5HHmVD_uO8C:
