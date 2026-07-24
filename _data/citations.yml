@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-15'
+  last_updated: '2026-07-24'
 papers:
   8FG0RjsAAAAJ:2osOgNQ5qMEC:
     citations: 2
@@ -42,11 +42,11 @@ papers:
     title: 'ConceptSeg-R1: Segment Any Concept via Meta-Reinforcement Learning'
     year: '2026'
   8FG0RjsAAAAJ:qjMakFHDy7sC:
-    citations: 47
+    citations: 48
     title: 'Exploring video denoising in thermal infrared imaging: Physics-inspired noise generator, dataset, and model'
     year: '2024'
   8FG0RjsAAAAJ:u-x6o8ySG0sC:
-    citations: 454
+    citations: 458
     title: Improving multispectral pedestrian detection by addressing modality imbalance problems
     year: '2020'
   8FG0RjsAAAAJ:u5HHmVD_uO8C:
