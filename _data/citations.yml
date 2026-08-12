@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-05'
+  last_updated: '2026-08-12'
 papers:
   8FG0RjsAAAAJ:2osOgNQ5qMEC:
     citations: 2
@@ -10,7 +10,7 @@ papers:
     title: "\u7EA2\u5916\u70ED\u50CF\u4EEA\u9AD8\u7CBE\u5EA6\u6D4B\u6E29\u6807\u5B9A\u6280\u672F"
     year: '2021'
   8FG0RjsAAAAJ:IjCSPb-OGe4C:
-    citations: 20
+    citations: 21
     title: Gaseous Object Detection
     year: '2024'
   8FG0RjsAAAAJ:Tyk-4Ss8FVUC:
@@ -24,6 +24,10 @@ papers:
   8FG0RjsAAAAJ:W7OEmFMy1HYC:
     citations: 0
     title: 'Frames2Residual: Spatiotemporal Decoupling for Self-Supervised Video Denoising'
+    year: '2026'
+  8FG0RjsAAAAJ:WF5omc3nYNoC:
+    citations: 0
+    title: A Frozen Pixel-Space Diffusion Model Can Guide Itself with Its Own Samples
     year: '2026'
   8FG0RjsAAAAJ:Y0pCki6q_DkC:
     citations: 11
@@ -46,11 +50,11 @@ papers:
     title: 'Exploring video denoising in thermal infrared imaging: Physics-inspired noise generator, dataset, and model'
     year: '2024'
   8FG0RjsAAAAJ:u-x6o8ySG0sC:
-    citations: 464
+    citations: 469
     title: Improving multispectral pedestrian detection by addressing modality imbalance problems
     year: '2020'
   8FG0RjsAAAAJ:u5HHmVD_uO8C:
-    citations: 47
+    citations: 48
     title: 'Explore spatio-temporal aggregation for insubstantial object detection: Benchmark dataset and baseline'
     year: '2022'
   8FG0RjsAAAAJ:zYLM7Y9cAGgC:
